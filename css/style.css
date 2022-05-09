@@ -146,9 +146,9 @@ p {
 
 	border-style: solid;
 	border-width: 2px;
+	border-radius: 5px;
 
 	box-sizing: border-box;
-	border-radius: 5px;
 
 	font-family: 'Archivo';
 	font-style: normal;
@@ -159,6 +159,8 @@ p {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+
+	text-decoration: none;
 }
 
 .buttonDrakGreyColor {
